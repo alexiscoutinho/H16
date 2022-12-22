@@ -7,7 +7,7 @@
 	"ShortDescription"	"Hard Eight, but it's doubled."
 	"Description"	"Hard Eight, but it's double the special infected. I would recommend playing this for fun, and not lose your sanity on expert."
 
-	"Image"		"maps/any"
+	"Image"		"vgui/hard16"
 	"Author"	"Slashed"
 }
 
