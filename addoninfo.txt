@@ -1,13 +1,15 @@
-"AddonInfo"
+AddonInfo
 {
 	addonSteamAppID		550
-	addontitle		"Hard Sixteen"
-	addonversion		1.0
-	addontagline		"Mutations"
-	addonauthor		"Slashed"
-	addonSteamGroupName	""
-	addonauthorSteamID	""
-	addonURL0		""
-	addonDescription	"Hard Eight, but doubled."
-	addonContent_Script 1
+	addonTitle			"Hard 16"
+	addonVersion		2.0
+	addonAuthor			"Dehsals and Jack Bauer ︻デ▬——"
+	addonAuthorSteamID	76561198391698050
+	addonURL0			https://steamcommunity.com/sharedfiles/filedetails/2715523748
+	addonContent_Script	1
+	addonDescription	"Hard 16 with Realism (optional).
+
+These mutations require Metamod:Source + L4DToolZ (or equivalent) to function properly.
+
+Source: https://github.com/alexiscoutinho/H16"
 }
