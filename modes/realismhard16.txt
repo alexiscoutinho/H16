@@ -1,0 +1,15 @@
+realismhard16
+{
+	base		realism
+	maxplayers	4
+
+	hasdifficulty	1
+
+	DisplayTitle		"Realism Hard 16"
+	ShortDescription	"Realism Hard Eight, but it's doubled."
+	Description			"Realism Hard Eight, but it's double the special infected. I would recommend playing this for fun, and not lose your sanity on expert.
+
+The internal mode name for use in the console is realismhard16."
+	Author				"Dehsals and Jack Bauer ︻デ▬——"
+	Image				vgui/hard16
+}
