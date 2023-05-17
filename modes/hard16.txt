@@ -10,6 +10,6 @@ hard16
 	Description			"Hard Eight, but it's double the special infected. I would recommend playing this for fun, and not lose your sanity on expert.
 
 The internal mode name for use in the console is hard16."
-	Author				"Dehsals and Jack Bauer ︻デ▬——"
+	Author				"Slashii and Jack Bauer ︻デ▬——"
 	Image				vgui/hard16
 }

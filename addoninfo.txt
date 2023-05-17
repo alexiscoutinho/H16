@@ -2,8 +2,8 @@ AddonInfo
 {
 	addonSteamAppID		550
 	addonTitle			"Hard 16"
-	addonVersion		2.0
-	addonAuthor			"Dehsals and Jack Bauer ︻デ▬——"
+	addonVersion		3.0
+	addonAuthor			"Slashii and Jack Bauer ︻デ▬——"
 	addonAuthorSteamID	76561198391698050
 	addonURL0			https://steamcommunity.com/sharedfiles/filedetails/2715523748
 	addonContent_Script	1
